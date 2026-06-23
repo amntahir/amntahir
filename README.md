@@ -4,17 +4,21 @@
 
 <h1 align="center">Hi 👋, I'm Amna Tahir</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-success?style=for-the-badge" />
+</p>
+
 <h3 align="center">
 Software Engineer • Full Stack Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;.NET+Developer;Computer+Science+Student;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;.NET+Developer;Open+to+Work" />
 </p>
 
 ---
 
-## ## 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🔭 Currently working on Full Stack and AI/ML projects
 
@@ -32,9 +36,24 @@ Software Engineer • Full Stack Developer • AI/ML Enthusiast
 
 ---
 
+## 💼 Experience
+
+### Full-Stack Developer Intern | Ministry of Law & Justice
+
+* Built interactive web modules and secure backend APIs.
+* Implemented authentication, CRUD operations, and optimized database performance.
+* Collaborated in Agile teams using Git and modern development practices.
+
+### Full-Stack Developer Intern | Developers Hub
+
+* Developed responsive web interfaces and RESTful APIs.
+* Improved UI responsiveness and contributed to technical documentation and code reviews.
+
+---
+
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/amnatahir-">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -53,7 +72,7 @@ Software Engineer • Full Stack Developer • AI/ML Enthusiast
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,react,nodejs,python,java,js,html,css,mysql,mongodb,postgres,docker,git,github,tensorflow,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,react,nodejs,python,java,js,html,css,mysql,mongodb,postgres,docker,git,github,tensorflow,linux" />
 </p>
 
 ---
@@ -61,13 +80,13 @@ Software Engineer • Full Stack Developer • AI/ML Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amntahir&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amntahir&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amntahir&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amntahir&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amntahir&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amntahir&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -75,34 +94,34 @@ Software Engineer • Full Stack Developer • AI/ML Enthusiast
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amntahir&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amntahir&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔐 Two-Factor Authentication (2FA)
+### 🔐 [Two-Factor Authentication (2FA)](YOUR_REPOSITORY_LINK)
 
 .NET REST API with JWT authentication, TOTP verification, encrypted secrets, and QR onboarding.
 
-### 🚗 Self-Driving Car AI
+### 🚗 [Self-Driving Car AI](YOUR_REPOSITORY_LINK)
 
 AI agent using decision trees and real-time sensor data for autonomous driving simulation.
 
-### ⚡ Parallel Dynamic Shortest Paths
+### ⚡ [Parallel Dynamic Shortest Paths](YOUR_REPOSITORY_LINK)
 
 Hybrid MPI + OpenMP implementation for efficient shortest-path updates in dynamic graphs.
 
-### 🛒 Online Shopping System
+### 🛒 [Online Shopping System](YOUR_REPOSITORY_LINK)
 
 Role-based e-commerce platform built with C#, .NET, and SQL.
 
-### 📚 Library Management System
+### 📚 [Library Management System](YOUR_REPOSITORY_LINK)
 
 Desktop application with role-based authentication and MySQL integration.
 
-### 🎮 SFML Maze Game
+### 🎮 [SFML Maze Game](YOUR_REPOSITORY_LINK)
 
 Interactive 2D maze game featuring enemy AI, scoring system, and engaging gameplay.
 
@@ -111,17 +130,15 @@ Interactive 2D maze game featuring enemy AI, scoring system, and engaging gamepl
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amntahir&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amntahir&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## ✨ Fun Fact
+## ✨ Quote
 
-```text
-"Code. Learn. Build. Repeat."
-```
+> *"Building scalable software, one commit at a time."*
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amntahir&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=amntahir&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
