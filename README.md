@@ -33,7 +33,7 @@ Software Engineer • Full Stack Developer • AI/ML Enthusiast
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/AmnaTahir">
+<a href="https://linkedin.com/in/amnatahir-">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
