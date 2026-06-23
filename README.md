@@ -88,14 +88,6 @@ Software Engineer • Full Stack Developer • AI/ML Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amntahir&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🔐 [Two-Factor Authentication (2FA)](YOUR_REPOSITORY_LINK)
