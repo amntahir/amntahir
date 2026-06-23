@@ -110,15 +110,11 @@ AI agent using decision trees and real-time sensor data for autonomous driving s
 
 Hybrid MPI + OpenMP implementation for efficient shortest-path updates in dynamic graphs.
 
-### 🛒 [Online Shopping System](YOUR_REPOSITORY_LINK)
+### 🛒 [Online Shopping System](https://github.com/amntahir/OnlineShoppingSystem)
 
 Role-based e-commerce platform built with C#, .NET, and SQL.
 
-### 📚 [Library Management System](YOUR_REPOSITORY_LINK)
-
-Desktop application with role-based authentication and MySQL integration.
-
-### 🎮 [SFML Maze Game](YOUR_REPOSITORY_LINK)
+### 🎮 [SFML Maze Game](https://github.com/amntahir/MazeQuest)
 
 Interactive 2D maze game featuring enemy AI, scoring system, and engaging gameplay.
 
