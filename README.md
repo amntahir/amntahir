@@ -1,17 +1,125 @@
-<h1 align="center">Hi 👋, I'm Amna Tahir</h1>
-<h3 align="center">FAST NUCES</h3>
-
-- 🔭 I’m currently working on **FYP**
-
-- 🌱 I’m currently learning **ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/amntahir](https://github.com/amntahir)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amntahir/amntahir/main/banner.png" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Amna Tahir</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amntahir&show_icons=true&locale=en" alt="amntahir" /></p>
+<h3 align="center">
+Software Engineer • Full Stack Developer • AI/ML Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;.NET+Developer;Computer+Science+Student;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🔭 Currently working on my Final Year Project
+
+🌱 Currently exploring **Machine Learning, MLOps, and Cloud Computing**
+
+🎓 Third-Year Computer Science Student at **FAST NUCES**
+
+💻 Passionate about **Full Stack Development, AI/ML, and Scalable Systems**
+
+🏆 Dean's Honour List Recipient
+
+📫 Reach me at: **[amntahir1@gmail.com](mailto:amntahir1@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/AmnaTahir">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:amntahir1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amntahir">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,react,nodejs,python,java,js,html,css,mysql,mongodb,postgres,docker,git,github,tensorflow,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amntahir&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amntahir&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amntahir&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amntahir&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔐 Two-Factor Authentication (2FA)
+
+.NET REST API with JWT authentication, TOTP verification, encrypted secrets, and QR onboarding.
+
+### 🚗 Self-Driving Car AI
+
+AI agent using decision trees and real-time sensor data for autonomous driving simulation.
+
+### ⚡ Parallel Dynamic Shortest Paths
+
+Hybrid MPI + OpenMP implementation for efficient shortest-path updates in dynamic graphs.
+
+### 🛒 Online Shopping System
+
+Role-based e-commerce platform built with C#, .NET, and SQL.
+
+### 📚 Library Management System
+
+Desktop application with role-based authentication and MySQL integration.
+
+### 🎮 SFML Maze Game
+
+Interactive 2D maze game featuring enemy AI, scoring system, and engaging gameplay.
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amntahir&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+```text
+"Code. Learn. Build. Repeat."
+```
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=amntahir&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
