@@ -4,9 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Amna Tahir</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-success?style=for-the-badge" />
-</p>
 
 <h3 align="center">
 Software Engineer • Full Stack Developer • AI/ML Enthusiast
@@ -109,7 +106,7 @@ Software Engineer • Full Stack Developer • AI/ML Enthusiast
 
 AI agent using decision trees and real-time sensor data for autonomous driving simulation.
 
-### ⚡ [Parallel Dynamic Shortest Paths](YOUR_REPOSITORY_LINK)
+### ⚡ [Parallel Dynamic Shortest Paths](https://github.com/amntahir/secure-9885)
 
 Hybrid MPI + OpenMP implementation for efficient shortest-path updates in dynamic graphs.
 
