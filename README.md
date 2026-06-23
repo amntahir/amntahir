@@ -14,17 +14,19 @@ Software Engineer • Full Stack Developer • AI/ML Enthusiast
 
 ---
 
-## 👩‍💻 About Me
+## ## 👩‍💻 About Me
 
-🔭 Currently working on my Final Year Project
+🔭 Currently working on Full Stack and AI/ML projects
 
-🌱 Currently exploring **Machine Learning, MLOps, and Cloud Computing**
+🌱 Continuously learning and exploring **Machine Learning, MLOps, and Cloud Technologies**
 
-🎓 Third-Year Computer Science Student at **FAST NUCES**
+💻 Passionate about **Full Stack Development, Artificial Intelligence, and Scalable Systems**
 
-💻 Passionate about **Full Stack Development, AI/ML, and Scalable Systems**
+🚀 Seeking opportunities to build impactful software solutions and grow as a Software Engineer
 
 🏆 Dean's Honour List Recipient
+
+💬 Ask me about **C++, .NET, React, AI/ML, Java, and Full Stack Development**
 
 📫 Reach me at: **[amntahir1@gmail.com](mailto:amntahir1@gmail.com)**
 
